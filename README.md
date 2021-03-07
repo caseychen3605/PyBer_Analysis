@@ -1,4 +1,6 @@
 # PyBer_Analysis
+Click here to view the analysis file: [PyBer_Analysis](https://github.com/caseychen3605/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
+
 ## Overview of Analysis
 The goal of this analysis is to create a multiple-line graph that shows the total weekly fares for each city type. PyBer operates in three types of cities: urban, suburban, and rural. Previously, we analyzed the ride count, average fare per ride, and average number of drivers, all categorized by the type of city. Additionally, we compared each city's metrics and the average ride fare to the total number of rides per city. For this challenge, we took it a step further and created a summary data frame that organized total rides, total drivers, total fares, average fare per ride, and average fare per driver and the multiple line plot.
 
